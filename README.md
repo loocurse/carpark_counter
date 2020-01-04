@@ -15,5 +15,10 @@ Can we better this decision making process?
 ### Proposed solution
 If we could study the number of cars in the carpark throughout the day, and model it as a probabilistic distribution, we can find the expected payoff of finding a parking lot in the as a function of time.
 
-## Approach
+## Part 1 - Data Engineering
+Using Python's OpenCV library and the Raspberry Pi 4 to collect traffic data with the limited view of the carpark entrance.
+
+## Part 2 - Modelling / Interface
+Giving users the information
+
 
